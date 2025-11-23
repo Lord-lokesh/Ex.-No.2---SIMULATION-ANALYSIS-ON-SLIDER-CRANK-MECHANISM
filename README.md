@@ -46,8 +46,8 @@
 
 ![image (2)](https://github.com/user-attachments/assets/f5ecef73-d812-482f-b80b-02ca51667ce7)
 
-### Name: Divya Dharshini S
-### Register Number: 212224240039
+### Name: LOKESH M
+### Register Number: 212224230142
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
